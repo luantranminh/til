@@ -10,3 +10,4 @@ Blogs:
 - [The book of the secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [The art of command line](https://github.com/jlevy/the-art-of-command-line)
 - [Professinal programming](https://github.com/charlax/professional-programming)
+- [Stackoverflow A&Q](https://stackoverflow.com/questions/tagged/git?sort=votes&pageSize=15)
