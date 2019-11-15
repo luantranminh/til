@@ -17,12 +17,12 @@ Blogs:
 - [Probaly Dance](https://probablydance.com/): Algorithms.
 - [research!sr](https://research.swtch.com/): Golang.
 - [Ruslan's Blog](https://ruslanspivak.com/): Create your own interpreter
-
+----
 - [The book of the secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [The art of command line](https://github.com/jlevy/the-art-of-command-line)
 - [Professinal programming](https://github.com/charlax/professional-programming)
 - [Stackoverflow A&Q](https://stackoverflow.com/questions/tagged/git?sort=votes&pageSize=15)
 
-
+----
 
 - [The Power of 10: Rules for Developing Safety-Critical Code](https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code)
