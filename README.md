@@ -21,6 +21,7 @@ Blogs:
 - [Probaly Dance](https://probablydance.com/): Algorithms.
 - [research!sr](https://research.swtch.com/): Golang.
 - [Ruslan's Blog](https://ruslanspivak.com/): Create your own interpreter
+- [Go Proverbs](https://go-proverbs.github.io/): All you need to know about Go.
 ----
 - [The book of the secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [The art of command line](https://github.com/jlevy/the-art-of-command-line)
