@@ -23,6 +23,8 @@ Blogs:
 - [Ruslan's Blog](https://ruslanspivak.com/): Create your own interpreter.
 - [Level-IP](https://github.com/saminiir/level-ip): TCP/IP, Linux networking.
 - [Go Proverbs](https://go-proverbs.github.io/): All you need to know about Go.
+----- Optimization
+- [Linear programming](https://brilliant.org/wiki/linear-programming/#): Linear programming
 ----
 - [The book of the secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [The art of command line](https://github.com/jlevy/the-art-of-command-line)
