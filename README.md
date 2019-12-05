@@ -23,7 +23,7 @@ Blogs:
 - [Ruslan's Blog](https://ruslanspivak.com/): Create your own interpreter.
 - [Level-IP](https://github.com/saminiir/level-ip): TCP/IP, Linux networking.
 - [Go Proverbs](https://go-proverbs.github.io/): All you need to know about Go.
-
+- [https://treyhunner.com/](https://treyhunner.com/): Python
 ----- 
 Optimization
 
