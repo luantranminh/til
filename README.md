@@ -25,6 +25,7 @@ Blogs:
 - [Go Proverbs](https://go-proverbs.github.io/): All you need to know about Go.
 - [https://treyhunner.com/](https://treyhunner.com/): Python
 - [book.pythontips.com](https://book.pythontips.com/en/latest/index.html): Python
+- [educative edpresso](https://www.educative.io/edpresso): Brief of dev knowledge 
 ----- 
 Optimization
 
