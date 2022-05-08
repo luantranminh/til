@@ -28,6 +28,7 @@ Blogs:
 - [book.pythontips.com](https://book.pythontips.com/en/latest/index.html): Python
 - [educative edpresso](https://www.educative.io/edpresso): Brief of dev knowledge 
 - [How I write backends](https://github.com/fpereiro/backendlore)
+- [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md): Go Style Guide
 ----- 
 Optimization
 
