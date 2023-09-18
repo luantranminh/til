@@ -2,7 +2,6 @@
 Check : https://github.com/luantranminh/til/issues for all achievements I got
 
 Blogs:
-- [WebGems](https://webgems.io/python): Resources Collector.
 - [Learn X in Y minutes](https://learnxinyminutes.com/): Vim, Go, Erlang, C, Ruby, Elixir ...
 - [Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions).
 - [Use the index Luke](https://use-the-index-luke.com/): A guid for database performance.
